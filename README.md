@@ -34,9 +34,9 @@ Technologies and Languages </h2>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 5px;">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://static.vecteezy.com/system/resources/previews/020/975/558/non_2x/steam-logo-steam-icon-transparent-free-png.png" style="margin-left: 5px;" ></a>
+			<img src="https://static.vecteezy.com/system/resources/previews/020/975/558/non_2x/steam-logo-steam-icon-transparent-free-png.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
