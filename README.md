@@ -35,7 +35,7 @@ Technologies and Languages </h2>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
+        <a   target="_blank" href="https://steamcommunity.com/id/Nomeveas/">
 			<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-left: 10px;" ></a>
 		<a   target="_blank" href="https://www.linkedin.com/in/">
 			<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" style="margin-left: 10px;" ></a>
