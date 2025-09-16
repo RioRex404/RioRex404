@@ -39,6 +39,8 @@ Technologies and Languages </h2>
 			<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-left: 10px;" ></a>
 		<a   target="_blank" href="https://www.linkedin.com/in/">
 			<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" style="margin-left: 10px;" ></a>
+	 	<a   target="_blank" href="https://www.linkedin.com/in/">
+			<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin-left: 10px;" ></a>
       </div>
 
 </p>
