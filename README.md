@@ -22,7 +22,7 @@ I'm an Engineering Systems student at USIL
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html" />
+    <img src="https://skillicons.dev/icons?i=css,html, js" />
   </a>
 </p>
 
