@@ -21,7 +21,9 @@ I'm an Engineering Systems student at USIL
 
 ---
 <h2 align="center">
+  
 Technologies and Languages </h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,java,ai,cpp" />
